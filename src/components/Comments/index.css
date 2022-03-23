@@ -1,0 +1,48 @@
+.bg-container {
+  background: #ffffff;
+  font-family: Roboto;
+  height: 100vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
+.heading {
+  color: #1e293b;
+  font-size: 36px;
+}
+.para {
+  color: #475569;
+  font-size: 18px;
+  font-weight: 500;
+}
+.button {
+  background: #0284c7;
+  width: 140px;
+  height: 32px;
+  color: #ffffff;
+  border-radius: 10px;
+  border-width: 0px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.input {
+  outline: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.comments-container {
+  border-top: 2px solid #cbd2d9;
+}
+.total-comments {
+  border-width: 0px;
+  background-color: #0284c7;
+  color: #ffffff;
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
+  margin-right: 6px;
+}
+.comment {
+  color: #475569;
+  font-size: 16px;
+}
